@@ -19,8 +19,7 @@ The Civilization VI District Planner is a tool developed with Python and Pygame 
 ### Installation Steps
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/
-Civ6Planner.git
+git clone https://github.com/Jacky0987/Civ6-District-Planner
 cd Civ6Planner
 ```
 2. Install dependencies

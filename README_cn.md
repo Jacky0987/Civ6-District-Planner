@@ -19,8 +19,7 @@
 ### 安装步骤
 1. 克隆仓库到本地
 ```
-git clone https://github.com/yourusername/
-Civ6Planner.git
+git clone https://github.com/Jacky0987/Civ6-District-Planner
 cd Civ6Planner
 ```
 2. 安装依赖
